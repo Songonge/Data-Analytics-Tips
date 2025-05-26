@@ -37,6 +37,4 @@ If you do not have a GitHub profile yet, start today!
 
 
 📌 If you are already on GitHub, share a link to your profile with your friends and community. Inspire each other to keep building, learning, and growing.
-
-
-If you feel overwhelmed and need a little push, DM me and we will have a session about it.
+📌 If you feel overwhelmed and need a little push, [DM me](https://www.linkedin.com/in/edwigesongong/) and we will have a session about it.
