@@ -50,9 +50,7 @@ In the same way, you should keep going so that tomorrow, other people can admire
 > * Your journey is yours alone.
 > * Comparisons are unnecessary. So, focus on your growth.
 > * Your persistence will pay off, and your story will inspire others.
-> * You have got this!
-
-</br></br>
+> * You have got this!  
 
 📌 And you, what is your strategy to achieve more?
 
