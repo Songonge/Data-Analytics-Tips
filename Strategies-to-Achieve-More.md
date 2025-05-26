@@ -7,13 +7,14 @@ In this short document, I am sharing some strategies that help me achieve a lot 
 
 ### :dart: Setting Small Achievable Goals  
 Every big achievement starts with a small step. Whether you’re learning a new skill, working on a passion project, or tackling a challenging goal, remember this: no matter how small progress may be, it keeps you moving forward.  
-
-I mostly set my goals such that they are:  
-* Specific
-* Measurable
-* Achievable
-* Relevant
-* Time-bound
+* Define what success looks like for you. This is your own path. 
+* Break big goals into actionable steps. This will avoid being overwhelmed. 
+* Set your goals such that they are:  
+  * Specific
+  * Measurable
+  * Achievable
+  * Relevant
+  * Time-bound
 
 ### :trophy: The Power of Starting Small and Finishing Big
 As a professional, I have come to appreciate the value of small, consistent steps in achieving big goals. 
@@ -38,24 +39,40 @@ It is easy to feel discouraged when things don’t go as planned or when we see 
 But let me tell you something: you are not alone. Everyone goes through it at a time in their life. Setbacks don’t define you but your response to them does.  
 
 > [!Tip]
-> Here is how you can shift your thoughts:  
+> Here is how I shift my thoughts:  
 > :green_circle: Think of rejections as redirections.  
 > :green_circle: Take failures as opportunities to learn.  
 > :green_circle: Picture little progress as a foundation for something big.  
 > 🟢 See other people's success as motivation.
 
-Showing up every day, not only when I feel like it, and doing the little I can do. My [LinkedIn](https://www.linkedin.com/in/edwigesongong/) is an example.
+* Showing up every day, not only when I feel like it, and doing the little I can do. My [LinkedIn](https://www.linkedin.com/in/edwigesongong/) is an example.  
+
+* **Prioritizing Smartly** 
+  * I focus on the most important tasks and those with close deadlines. 
+  * I avoid burnout by working efficiently, not just endlessly.
+
+* **Staying Consistent** 
+  * Small daily efforts lead to big results. Someone will say that $1 is the foundation of $1000 and more.
+  * I keep showing up, even when not motivated. We do not have the same engagement every day, but we should try to push ourselves.
+
 
 ## Being Myself
 * Because everybody is already taken. I know I have something specific in me and a lot to offer. That is why I always offer to help whenever the opportunity arises. Plus, I do not compare myself to others.
 * I also take care of myself and I am kind to myself. These help me be full of energy to take care of others.
+* I network with good intentions
+
 
 ## Leaving My Comfort Zone
-This is what helps me face challenges and grow. In addition, I get exposed to people in my field who may help and guide me on my way. 
+This is what helps me face challenges and grow. In addition, I get exposed to people in my field who may help and guide me on my way.  
+  * I engage with people who inspire and challenge me. They help me get out of my comfort zone.
+  * One conversation can change everything. So, I am not afraid to be the one starting the conversation.
 
-## Surrounding myself with positivity
+## Surrounding Myself with Positivity
 * I constantly seek out uplifting people and thoughts to fuel my energy. 
-* I practice gratitude by writing down three to five things I am thankful for every morning.  
+* I practice gratitude by writing down three to five things I am thankful for every morning.
+* I celebrate progress
+  * I acknowledge every win with gratitude, no matter how small.
+  * Each progress, not perfection, is the key. This is what keeps me going.  
 
 Every successful person you admire once felt like giving up. The difference is, if they did, you wouldn't have anything to admire in them. They pushed through, learned from their struggles, and came out stronger.
 
