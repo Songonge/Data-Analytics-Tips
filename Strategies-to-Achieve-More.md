@@ -3,10 +3,10 @@
 
 In this short document, I am sharing some strategies that help me achieve a lot whether in my work life or personal life.  
 
-## Working SMART, Not HARD
-* **Set small achievable goals**  
-Every big achievement starts with a small step. Whether you’re learning a new skill, working on a passion project, or tackling a challenging goal, remember this: no matter how small progress may be, it keeps you moving forward.
-I always set my goals such that they are:
+## Working SMART, Not HARD, and Setting Small Achievable Goals  
+Every big achievement starts with a small step. Whether you’re learning a new skill, working on a passion project, or tackling a challenging goal, remember this: no matter how small progress may be, it keeps you moving forward.  
+
+I mostly set my goals such that they are:  
 * Specific
 * Measurable
 * Achievable
@@ -22,11 +22,12 @@ It is easy to feel discouraged when things don’t go as planned or when we see 
 
 But let me tell you something: you are not alone. Everyone goes through it at a time in their life. Setbacks don’t define you but your response to them does.  
 
-Here is how you can shift your thoughts:  
-* Think of rejections as redirections.
-* Take failures as opportunities to learn.
-* Picture little progress as a foundation for something big.
-* See other people's success as motivation.
+> [!Tip]
+> Here is how you can shift your thoughts:  
+> * Think of rejections as redirections.
+> * Take failures as opportunities to learn.
+> * Picture little progress as a foundation for something big.
+> * See other people's success as motivation.
 
 Showing up every day, not only when I feel like it, and doing the little I can do. My [LinkedIn](https://www.linkedin.com/in/edwigesongong/) is an example.
 
@@ -46,10 +47,10 @@ Every successful person you admire once felt like giving up. The difference is, 
 In the same way, you should keep going so that tomorrow, other people can admire you. You are closer to your goals than you think.  
 
 > [!Important]
-> Your journey is yours alone.
-> Comparisons are unnecessary. So, focus on your growth.
-> Your persistence will pay off, and your story will inspire others.
-> You have got this!
+> * Your journey is yours alone.
+> * Comparisons are unnecessary. So, focus on your growth.
+> * Your persistence will pay off, and your story will inspire others.
+> * You have got this!
 
 </br></br>
 
