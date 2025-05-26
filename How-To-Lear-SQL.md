@@ -34,7 +34,7 @@ Here is what helped me learn SQL faster.
 * I started with **MySQL**. Then, moved to **Microsoft SQL Server**, and later to **PostgreSQL**. I am familiar with each of these tools.
 * The concept in each tool is the same. The only differences lie in some of the functions.
 
-## Reading Books and Blogs
+## 7. Reading Books and Blogs
 * Read books and blogs on SQL and data analysis to deepen your understanding of the subject.
 </br></br>
 
