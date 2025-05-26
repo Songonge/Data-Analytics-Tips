@@ -56,6 +56,20 @@ Here are some thought processes that a data analyst typically experiences upon f
 * Identifying trends and patterns
 * Formulating hypotheses based on the patterns
 * Planning on what to do with the data
+
+## Challenges in the Data Industry
+The data industry, just like any other industry, faces many challenges, such as:  
+* Inconsistent data formats
+* Missing values
+* Duplicate entries
+* Outdated or inaccurate information  
+
+Because poor data quality can lead to bad decisions, wasted resources, and lost opportunities, it is crucial to address those challenges. My question to anyone working with data is, _How do you tackle data quality issues in your work?_
+
+In this [document](https://www.linkedin.com/posts/edwigesongong_challenges-in-the-data-industry-activity-7310873170289250304-bqfk?utm_source=share&utm_medium=member_desktop&rcm=ACoAAB_1EqsB-d45rChQ2ctmpgYCEopN9YPppR0), you will find:  
+* Important details regarding examples of data quality issues.
+* The consequences that any business or company may face if these issues are not addressed.
+* Four examples of how to address the issues, including the positive outcome that will arise after addressing them.
 </br></br>
 
 
