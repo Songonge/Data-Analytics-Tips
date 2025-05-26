@@ -111,6 +111,20 @@ Answering the questions below is a good start to what to include in your DA repo
 > :purple_circle: Anyone reading your report should be able to understand it without any effort, but just based on the information you provided.  
 > :purple_circle: Documenting all the tasks completed for each project is good practice as it can be used for future reference.
 
+## Why is it important to well-document your project?
+A well-documented project has several benefits.  
+* It can be used for future references
+* It answers the points below:
+  * It tells your audience what the project was about.
+  * It highlights what you did.
+  * It explains how you did it.
+  * It points out why all you did matters.  
+
+<figure>
+  <img src="https://github.com/Songonge/Data-Analytics-Tips/blob/main/Project_Documentation.jpg" width=100% height=100% alt="alt text">
+  <figcaption>Figure: What to include in your Data Analysis Report.</figcaption>
+</figure>
+</br></br>
 
 📌 Do you have a better approach to data tasks? I would love to hear your thoughts [here](https://www.linkedin.com/in/edwigesongong/). 
 
