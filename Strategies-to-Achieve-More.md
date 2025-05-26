@@ -3,7 +3,9 @@
 
 In this short document, I am sharing some strategies that help me achieve a lot whether in my work life or personal life.  
 
-## Working SMART, Not HARD, and Setting Small Achievable Goals  
+## Working SMART, Not HARD
+
+### Setting Small Achievable Goals  
 Every big achievement starts with a small step. Whether you’re learning a new skill, working on a passion project, or tackling a challenging goal, remember this: no matter how small progress may be, it keeps you moving forward.  
 
 I mostly set my goals such that they are:  
@@ -12,6 +14,19 @@ I mostly set my goals such that they are:
 * Achievable
 * Relevant
 * Time-bound
+
+### The Power of Starting Small and Finishing Big
+As a professional, I have come to appreciate the value of small, consistent steps in achieving big goals. 
+
+Whether it is mastering a new skill, analyzing complex data, teaching, mentoring, or preparing for a new role, my journey started with small steps.
+
+Here are the things that help me stay motivated daily:  
+* Waking up every morning with a plan for the day: This is crucial for me as it sets the tone for productivity.
+* Taking intermittent breaks when I work: Every break for me is a time to refresh and recharge my energy.
+* Allocating time for each task: This is my way of staying in control of my schedule.
+* Staying up to date with the trends: The tech field evolves very fast, and it is up to you and me to adapt to the new features.
+* Celebrating small wins: Even if sometimes I do not finish what I have on my daily list, I celebrate what I achieved and highlight what is left. Besides, I can still continue the following day.
+* Believing in myself: As someone who comes from a non-tech background, the journey has not been easy. Every challenge has been an opportunity for me to grow, prove my resilience, and a stepping stone towards becoming the best version of myself. 
 
 ## Being Consistent and Avoiding Being Discouraged
 It is easy to feel discouraged when things don’t go as planned or when we see the journey still far from the end. 
