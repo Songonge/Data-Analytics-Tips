@@ -5,7 +5,7 @@ In this short document, I am sharing some strategies that help me achieve a lot 
 
 ## Working SMART, Not HARD
 
-### Setting Small Achievable Goals  
+### :dart: Setting Small Achievable Goals  
 Every big achievement starts with a small step. Whether you’re learning a new skill, working on a passion project, or tackling a challenging goal, remember this: no matter how small progress may be, it keeps you moving forward.  
 
 I mostly set my goals such that they are:  
@@ -15,7 +15,7 @@ I mostly set my goals such that they are:
 * Relevant
 * Time-bound
 
-### The Power of Starting Small and Finishing Big
+### :trophy: The Power of Starting Small and Finishing Big
 As a professional, I have come to appreciate the value of small, consistent steps in achieving big goals. 
 
 Whether it is mastering a new skill, analyzing complex data, teaching, mentoring, or preparing for a new role, my journey started with small steps.
