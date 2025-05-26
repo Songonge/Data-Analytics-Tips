@@ -39,10 +39,10 @@ But let me tell you something: you are not alone. Everyone goes through it at a 
 
 > [!Tip]
 > Here is how you can shift your thoughts:  
-> * Think of rejections as redirections.
-> * Take failures as opportunities to learn.
-> * Picture little progress as a foundation for something big.
-> * See other people's success as motivation.
+> :green_circle: Think of rejections as redirections.  
+> :green_circle: Take failures as opportunities to learn.  
+> :green_circle: Picture little progress as a foundation for something big.  
+> 🟢 See other people's success as motivation.
 
 Showing up every day, not only when I feel like it, and doing the little I can do. My [LinkedIn](https://www.linkedin.com/in/edwigesongong/) is an example.
 
@@ -62,10 +62,10 @@ Every successful person you admire once felt like giving up. The difference is, 
 In the same way, you should keep going so that tomorrow, other people can admire you. You are closer to your goals than you think.  
 
 > [!Important]
-> * Your journey is yours alone.
-> * Comparisons are unnecessary. So, focus on your growth.
-> * Your persistence will pay off, and your story will inspire others.
-> * You have got this!  
+> :purple_circle: Your journey is yours alone.  
+> :purple_circle: Comparisons are unnecessary. So, focus on your growth.  
+> :purple_circle: Your persistence will pay off, and your story will inspire others.  
+> :purple_circle: You have got this!  
 
 📌 And you, what is your strategy to achieve more?
 
