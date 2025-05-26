@@ -1,7 +1,7 @@
 # What I Wish I Knew Earlier in My Data Analyst Career
 ----
 
-# What You Should Know About A DA Career
+## What You Should Know About A DA Career
 When I started, I wished I had a clear roadmap. Instead, I spent time figuring out what skills to learn, which tools to focus on, and how to gain real-world experience. 
 
 Looking back, here’s what I would tell my past self (and anyone just starting):  
