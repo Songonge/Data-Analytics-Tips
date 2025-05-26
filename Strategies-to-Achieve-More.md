@@ -7,9 +7,9 @@ In this short document, I am sharing some strategies that help me achieve a lot 
 
 ### :dart: Setting Small Achievable Goals  
 Every big achievement starts with a small step. Whether you’re learning a new skill, working on a passion project, or tackling a challenging goal, remember this: no matter how small progress may be, it keeps you moving forward.  
-* Define what success looks like for you. This is your own path. 
-* Break big goals into actionable steps. This will avoid being overwhelmed. 
-* Set your goals such that they are:  
+* I define what success looks like for me. This is my own path. 
+* I break big goals into actionable steps. This helps me avoid being overwhelmed. 
+* I set my goals such that they are:  
   * Specific
   * Measurable
   * Achievable
