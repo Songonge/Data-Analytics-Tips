@@ -1,10 +1,10 @@
 # What To Include In Your Data Analysis Report
 ----
 
+## Background
 Ever wondered what should go into your data analysis report? 
 
 It is not just about crunching numbers but uncovering insights and proposing recommendations that drive business decisions.
-
 
 Here is a sneak peek into how I approach my tasks, which you can adapt to your liking. 
 
