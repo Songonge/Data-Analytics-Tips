@@ -77,4 +77,6 @@ Why?
   <img src="https://github.com/Songonge/Data-Analytics-Tips/blob/main/Key%20Tasks%20to%20Complete%20on%20a%20Data%20Analytics%20Project.jpg" width=100% height=100% alt="alt text">
   <figcaption>Figure: Step-by-Step Breakdown of Key Tasks to Complete on a Data Analytics Project.</figcaption>
 </figure>
-📌 Check this [document] for a step-by-step [here](
+</br></br>
+
+📌 What else could you add? Share your thoughts [here](https://www.linkedin.com/in/edwigesongong/).
