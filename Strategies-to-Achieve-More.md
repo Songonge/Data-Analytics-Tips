@@ -13,7 +13,21 @@ I always set my goals such that they are:
 * Relevant
 * Time-bound
 
-## Being Consistent
+## Being Consistent and Avoiding Being Discouraged
+It is easy to feel discouraged when things don’t go as planned or when we see the journey still far from the end. 
+
+* Maybe you didn’t land that job you wanted,
+* Your career isn’t advancing as quickly as you hoped, or
+* You feel overwhelmed by learning something new.  
+
+But let me tell you something: you are not alone. Everyone goes through it at a time in their life. Setbacks don’t define you but your response to them does.  
+
+Here is how you can shift your thoughts:  
+* Think of rejections as redirections.
+* Take failures as opportunities to learn.
+* Picture little progress as a foundation for something big.
+* See other people's success as motivation.
+
 Showing up every day, not only when I feel like it, and doing the little I can do. My [LinkedIn](https://www.linkedin.com/in/edwigesongong/) is an example.
 
 ## Being Myself
@@ -25,7 +39,18 @@ This is what helps me face challenges and grow. In addition, I get exposed to pe
 
 ## Surrounding myself with positivity
 * I constantly seek out uplifting people and thoughts to fuel my energy. 
-* I practice gratitude by writing down three to five things I am thankful for every morning.
+* I practice gratitude by writing down three to five things I am thankful for every morning.  
+
+Every successful person you admire once felt like giving up. The difference is, if they did, you wouldn't have anything to admire in them. They pushed through, learned from their struggles, and came out stronger.
+
+In the same way, you should keep going so that tomorrow, other people can admire you. You are closer to your goals than you think.  
+
+> [!Important]
+> Your journey is yours alone.
+> Comparisons are unnecessary. So, focus on your growth.
+> Your persistence will pay off, and your story will inspire others.
+> You have got this!
+
 </br></br>
 
 📌 And you, what is your strategy to achieve more?
