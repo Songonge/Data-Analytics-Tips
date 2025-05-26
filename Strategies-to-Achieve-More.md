@@ -74,8 +74,23 @@ This is what helps me face challenges and grow. In addition, I get exposed to pe
   * I acknowledge every win with gratitude, no matter how small.
   * Each progress, not perfection, is the key. This is what keeps me going.  
 
-Every successful person you admire once felt like giving up. The difference is, if they did, you wouldn't have anything to admire in them. They pushed through, learned from their struggles, and came out stronger.
 
+## Handling Uncertainty in Both Personal and Professional Lives
+Uncertainty used to frustrate me. Now, I see it as part of the process. Whether I am analyzing a dataset, making career moves, or taking a leap into the unknown.
+
+Here are some tips that help me handle uncertainty.
+> [!TIP]
+> :green_circle: Trusting the process  
+> :green_circle: Embracing the mess and looking for patterns.  
+> :green_circle: Seeking diverse inputs.  
+> :green_circle: Knowing when to pivot and take action.  
+> :green_circle: Celebrating small wins.  
+
+Follow this [link](https://www.linkedin.com/posts/edwigesongong_how-to-handle-uncertainty-in-data-life-activity-7298755590556696576-RrDX?utm_source=share&utm_medium=member_desktop&rcm=ACoAAB_1EqsB-d45rChQ2ctmpgYCEopN9YPppR0) to read the full document.  
+
+> [!NOTE]
+> :large_blue_circle: Every successful person you admire once felt like giving up. The difference is, if they did, you wouldn't have anything to admire in them.  
+> :large_blue_circle: They pushed through, learned from their struggles, and came out stronger.  
 In the same way, you should keep going so that tomorrow, other people can admire you. You are closer to your goals than you think.  
 
 > [!Important]
