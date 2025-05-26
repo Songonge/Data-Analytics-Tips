@@ -91,6 +91,7 @@ Follow this [link](https://www.linkedin.com/posts/edwigesongong_how-to-handle-un
 > [!NOTE]
 > :large_blue_circle: Every successful person you admire once felt like giving up. The difference is, if they did, you wouldn't have anything to admire in them.  
 > :large_blue_circle: They pushed through, learned from their struggles, and came out stronger.  
+
 In the same way, you should keep going so that tomorrow, other people can admire you. You are closer to your goals than you think.  
 
 > [!Important]
