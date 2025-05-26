@@ -28,12 +28,12 @@ Here is why GitHub is essential:
 If you do not have a GitHub profile yet, start today!  
 
 > [!TIP]
-> * Go on YouTube and watch a video about how to create one.
-> * Create your profile. 
-> * Begin by uploading a project you are proud of. Then, add other projects you already have.
-> * Document your code and the steps to solving the problem clearly.
-> * Add the link to your LinkedIn profile and your resume.
-> * Share the link in your community to inspire others.
+> 🟢 Go on YouTube and watch a video about how to create one.
+> 🟢 Create your profile. 
+> 🟢 Begin by uploading a project you are proud of. Then, add other projects you already have.
+> 🟢 Document your code and the steps to solving the problem clearly.
+> 🟢 Add the link to your LinkedIn profile and your resume.
+> 🟢 Share the link in your community to inspire others.
 
 
 📌 If you are already on GitHub, share a link to your profile with your friends and community. Inspire each other to keep building, learning, and growing.
