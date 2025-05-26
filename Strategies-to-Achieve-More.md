@@ -49,7 +49,8 @@ But let me tell you something: you are not alone. Everyone goes through it at a 
 
 * **Prioritizing Smartly** 
   * I focus on the most important tasks and those with close deadlines. 
-  * I avoid burnout by working efficiently, not just endlessly.
+  * I avoid burnout by working efficiently, not just endlessly. 
+  * Follow this [link](https://www.linkedin.com/posts/edwigesongong_how-to-prioritize-tasks-as-a-data-analyst-activity-7300150995001520129-Ph_n?utm_source=share&utm_medium=member_desktop&rcm=ACoAAB_1EqsB-d45rChQ2ctmpgYCEopN9YPppR0) to read more about prioritizing tasks.
 
 * **Staying Consistent** 
   * Small daily efforts lead to big results. Someone will say that $1 is the foundation of $1000 and more.
