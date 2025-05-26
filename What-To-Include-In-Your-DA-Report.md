@@ -88,13 +88,24 @@ Answering the questions below is a good start to what to include in your DA repo
   * Explain the choice of charts you used and what they showcase in your dashboard
   * Include the dashboard in your report (This is a must!)
 
-* **What are the insights from your analysis?**
-  * Highlight what you found from the analysis. 
+* **What are the insights from your analysis?**  
+  * This section is where the actual analysis outcomes are presented.  
+  * Highlights what you found from the analysis, including key findings, trends, patterns, and statistical results.
+  * Visualizations (charts, tables, graphs) to support the narrative.
+  * Answers the business problem. 
   * Here, the dashboard can guide you.
 
+* **Interpretation & Discussion**  
+  * This section explains the significance of the results.
+  * Puts findings into context (e.g., business impact).
+  * Discusses the implications of the results and any limitations of the analysis.
+
 * **What are some recommendations from your analysis?**
-  * Base yourself on the entire project from start to finish. 
-  * Use your insights as a guide.
+  * This section suggests the next steps based on the findings.
+  * Provides practical solutions or future considerations.
+  * Helps decision-makers make informed actions.
+  * Here, you can base yourself on the entire project from start to finish. 
+  * You can use your insights as a guide.
 
 > [!IMPORTANT]
 > :purple_circle: Anyone reading your report should be able to understand it without any effort, but just based on the information you provided.  
