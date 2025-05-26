@@ -97,7 +97,7 @@ Answering the questions below is a good start to what to include in your DA repo
   * Use your insights as a guide.
 
 > [!IMPORTANT]
-> :purple_circle: Anyone reading your report should be able to understand it without any effort but just based on the information you provided.
+> :purple_circle: Anyone reading your report should be able to understand it without any effort, but just based on the information you provided.  
 > :purple_circle: Documenting all the tasks completed for each project is good practice as it can be used for future reference.
 
 
