@@ -45,9 +45,9 @@ This part is very crucial for me as it is where I highlight what I found during 
 
 
 > [!IMPORTANT]
-> :purple_circle: In addition to the above points, I should mention that continuous learning and consistency are essential to achieving long-term success in any field.
-> ➡️ With data evolving every day, I stay updated with new techniques and best practices to refine my approach. 
-> ➡️ Adapting to new features helps me be flexible in any tool I choose to work with. 
+> :purple_circle: In addition to the above points, I should mention that continuous learning and consistency are essential to achieving long-term success in any field.  
+> :purple_circle: With data evolving every day, I stay updated with new techniques and best practices to refine my approach.  
+> :purple_circle: Adapting to new features helps me be flexible in any tool I choose to work with. 
 
 
 📌 Do you have a better approach to data tasks? I would love to hear your thoughts [here](https://www.linkedin.com/in/edwigesongong/). 
