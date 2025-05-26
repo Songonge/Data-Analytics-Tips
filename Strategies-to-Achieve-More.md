@@ -1,4 +1,5 @@
 # Little Strategies to Achieve More in Life
+----
 
 In this short document, I am sharing some strategies that help me achieve a lot whether in my work life or personal life.  
 
@@ -24,8 +25,8 @@ This is what helps me face challenges and grow. In addition, I get exposed to pe
 
 ## Surrounding myself with positivity
 * I constantly seek out uplifting people and thoughts to fuel my energy. 
-* I Practice gratitude by writing down three to five things I am thankful for every morning.
+* I practice gratitude by writing down three to five things I am thankful for every morning.
+</br></br>
 
-
-And you, what is your strategy to achieve more?
+📌 And you, what is your strategy to achieve more?
 
