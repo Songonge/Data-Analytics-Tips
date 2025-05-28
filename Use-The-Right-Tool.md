@@ -15,12 +15,12 @@ Follow this [link](https://www.linkedin.com/posts/edwigesongong_choose-the-right
 Here is what you will find in the document:
 
 * The scenario  
-🔹 How I got the dataset  
-🔹 The goal of the project  
-🔹 The solution using Excel  
-🔹 The solution using SQL  
-🔹 A table showing a comparison of the two tools  
-🔹 My take on the two tools  
+* How I got the dataset  
+* The goal of the project  
+* The solution using Excel  
+* The solution using SQL  
+* A table showing a comparison of the two tools  
+* My take on the two tools  
 
 
 > [!NOTE]
