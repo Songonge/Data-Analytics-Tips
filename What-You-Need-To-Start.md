@@ -80,7 +80,7 @@ When you are done answering the above questions,
 > :large_blue_circle: Other days? There will be no motivation.  
 > :large_blue_circle: But you should show up consistently. That will make all the difference.  
 
-</br></br>
+
 
 That is it!
 
