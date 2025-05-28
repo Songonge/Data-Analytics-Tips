@@ -42,4 +42,4 @@ Check the table below for a quick comparison.
 | Automation	| Limited	| Excellent |
 
 
-📌 If you were to solve the questions in the document, would you use SQL or Excel? Please explain it [here](https://www.linkedin.com/in/edwigesongong/).
+📌 If you were to solve the questions in this [document](https://www.linkedin.com/posts/edwigesongong_choose-the-right-tool-for-your-project-activity-7327649585319813120-5A0B?utm_source=share&utm_medium=member_desktop&rcm=ACoAAB_1EqsB-d45rChQ2ctmpgYCEopN9YPppR0), would you use SQL or Excel? Please explain it [here](https://www.linkedin.com/in/edwigesongong/).
