@@ -25,11 +25,11 @@ Here is what you will find in the document:
 
 > [!NOTE]
 > Based on my experience in working with both tools, I can conclude the following:  
-> :large_blue_circle: SQL is a powerful tool for large datasets and repeatable tasks.
-> :large_blue_circle: Excel shines for quick exploration and visualization.
-> :large_blue_circle: Use the tool that aligns with your strengths.
-> :large_blue_circle: Choose a tool based on the project size, goals, and comfort level.
-> :large_blue_circle: Learn both, but do not force yourself to use one just because it is trendy.
+> :large_blue_circle: SQL is a powerful tool for large datasets and repeatable tasks.  
+> :large_blue_circle: Excel shines for quick exploration and visualization.  
+> :large_blue_circle: Use the tool that aligns with your strengths.  
+> :large_blue_circle: Choose a tool based on the project size, goals, and comfort level.  
+> :large_blue_circle: Learn both, but do not force yourself to use one just because it is trendy.  
 
 
 📌 If you were to solve the questions in the document, would you use SQL or Excel? Please explain it [here](https://www.linkedin.com/in/edwigesongong/).
